@@ -8,3 +8,4 @@ I'm a Full-Stack Web Developer with a solid foundation in web development techno
     <img src="https://skillicons.dev/icons?i=js,html,css,py,java,nextjs,nodejs,react,mongodb,prisma,angular,ps" />
   </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimicodes)](https://github.com/dimicodes/github-readme-stats)
