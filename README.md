@@ -7,6 +7,7 @@ I'm a Full-Stack Web Developer with a solid foundation in web development techno
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,react,prisma,angular,ps" />
   </a>
+  <br>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,java,nodejs,mongodb,express,postgres,prisma" />
   </a>
