@@ -5,7 +5,10 @@ I'm a Full-Stack Web Developer with a solid foundation in web development techno
 
 ### My Skills
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,py,java,nextjs,nodejs,react,mongodb,express,postgres,prisma,angular,ps" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,nextjs,react,prisma,angular,ps" />
+  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,nodejs,mongodb,express,postgres,prisma" />
   </a>
 
 ### My Languages
