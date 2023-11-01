@@ -16,5 +16,4 @@ I'm a Full-Stack Web Developer with a solid foundation in web development techno
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimicodes&size_weight=0.5&count_weight=0.5)
 
-![](https://tokei.rs/b1/github/dimicodes)
 
