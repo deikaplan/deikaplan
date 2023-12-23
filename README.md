@@ -9,7 +9,7 @@ I'm a Full-Stack Web Developer with a solid foundation in web development techno
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,nodejs,mongodb,express,postgres,prisma" />
+    <img src="https://skillicons.dev/icons?i=java,py,nodejs,mongodb,express,postgres" />
   </a>
 
 ### My Languages
